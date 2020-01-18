@@ -4,6 +4,7 @@ public class HelloWorld{
 		int b = 0;
 		int online = 0;
 		System.out.println("Hello World");
+		System.out.println("Hello World");
 	}
 	
 }
